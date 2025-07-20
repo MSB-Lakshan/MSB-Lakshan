@@ -1,72 +1,101 @@
-<!-- Profile README Template -->
-
-<h1 align="center">Hi 👋, I'm Lakshan</h1>
-<h3 align="center">Aspiring Software & DevOps Engineer | Java & JavaScript Enthusiast</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi%2C+I'm+Lakshan+👋;Aspiring+Software+%26+DevOps+Engineer;Full-Stack+Developer;Always+Learning+and+Growing" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;DevOps+Learner;Love+for+Clean+Code+%26+Automation" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 ---
 
-### 🚀 About Me
+### <p align="center">🚀 About Me</p>
 
-- 🎓 Undergraduate student at **CINEC University**, Sri Lanka  
-- 🧠 Learning: `Java`, `Spring Boot`, `JavaScript`, `React`, `DevOps`, `CI/CD`, `Docker`, `Kubernetes`  
-- 🛠 Building: Web apps, AI tools, DevOps pipelines  
-- 🗂️ Actively working on:  
-  `AI assistants`, `Full-stack apps`, `Cloud-native tools`
+I'm a passionate and driven Computer Science undergraduate from **CINEC University, Sri Lanka**, with a strong enthusiasm for building elegant software solutions and robust, automated systems. My journey in tech is fueled by a love for clean code, scalable architecture, and the endless possibilities of cloud-native technologies.
 
----
-
-### 💻 Tech Stack
-
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🌱 I’m currently diving deep into the **Spring Ecosystem** and exploring advanced **DevOps practices** with Kubernetes.
+- 💡 My focus is on creating full-stack web applications and AI-powered tools that solve real-world problems.
+- 👯 I’m looking to collaborate on open-source projects related to **Java, JavaScript, or DevOps**.
+- 💬 Ask me about **Java, Spring Boot, React, or CI/CD pipelines**!
 
 ---
 
-### 📊 GitHub Stats
+### <p align="center">🛠️ My Tech Stack</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="200">
+      <strong>Frontend</strong>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/></a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/></a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Databases</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <strong>DevOps & Cloud</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <p align="center">📊 My GitHub Stats</p>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github" alt="Lakshan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Lakshan's GitHub Streak" />
+  <br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### <p align="center">🔗 Let's Connect</p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Contact Me
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)  
-- 🧠 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
-
----
-
-### ☕ Support Me
-
-If you like what I do, consider buying me a coffee 😊
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourlink)
-
----
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourlink">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
