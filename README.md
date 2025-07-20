@@ -1,169 +1,101 @@
-# 👋 Hi, I'm Lakshan
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Aspiring+Software+%26+DevOps+Engineer;Full-Stack+Developer;Building+the+bridge+between+ideas+and+reality" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi%2C+I'm+Lakshan+👋;Aspiring+Software+%26+DevOps+Engineer;Full-Stack+Developer;Always+Learning+and+Growing" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
-</div>
-
-## 🚀 About Me
-
-> *"Building the bridge between ideas and reality"*
-
-I'm a passionate Computer Science undergraduate from **CINEC University, Sri Lanka**, dedicated to crafting innovative software solutions and scalable systems. My journey is driven by the desire to transform complex problems into elegant, user-centric applications.
-
-```javascript
-const lakshan = {
-  code: ["JavaScript", "Python", "Java", "PHP"],
-  askMeAbout: ["web dev", "full-stack", "cloud architecture", "DevOps"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vanilla JS"],
-      css: ["Tailwind", "Bootstrap", "Sass"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      php: ["Laravel", "Core PHP"]
-    },
-    databases: ["MySQL", "MongoDB", "AWS RDS"],
-    cloud: ["AWS", "Docker"],
-    tools: ["Git", "Docker", "VS Code"]
-  },
-  currentFocus: "Building scalable web applications with modern tech stacks",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
+### <p align="center">🚀 About Me</p>
 
-<div align="center">
+I'm a passionate and driven Computer Science undergraduate from **CINEC University, Sri Lanka**, with a strong enthusiasm for building elegant software solutions and robust, automated systems. My journey in tech is fueled by a love for clean code, scalable architecture, and the endless possibilities of cloud-native technologies.
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
-### Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-</div>
+- 🌱 I’m currently diving deep into the **Spring Ecosystem** and exploring advanced **DevOps practices** with Kubernetes.
+- 💡 My focus is on creating full-stack web applications and AI-powered tools that solve real-world problems.
+- 👯 I’m looking to collaborate on open-source projects related to **Java, JavaScript, or DevOps**.
+- 💬 Ask me about **Java, Spring Boot, React, or CI/CD pipelines**!
 
 ---
 
-## 📊 GitHub Analytics
+### <p align="center">🛠️ My Tech Stack</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="200">
+      <strong>Frontend</strong>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/></a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/></a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Databases</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <strong>DevOps & Cloud</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <p align="center">📊 My GitHub Stats</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github" alt="Lakshan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Lakshan's GitHub Streak" />
+  <br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### <p align="center">🔗 Let's Connect</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 **Working on:** Full-stack web applications with React and Node.js
-- 🌱 **Learning:** Advanced AWS services and microservices architecture
-- 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
-- 💬 **Ask me about:** JavaScript, React, Node.js, Python, or full-stack development
-- ⚡ **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered!
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=algolia" alt="Project 1"/>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=algolia" alt="Project 2"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=algolia&layout=compact" alt="WakaTime Stats"/>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
+<p align="center">
   <a href="https://www.buymeacoffee.com/yourlink">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <br/>
-  
-  **"The best way to predict the future is to create it."** 
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
-</div>
+</p>
