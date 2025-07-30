@@ -1,21 +1,10 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi%2C+I'm+Lakshan+👋;Aspiring+Software+%26+DevOps+Engineer;Full-Stack+Developer;Always+Learning+and+Growing" alt="Typing SVG" /></a>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
----
-
 ### <p align="center">🚀 About Me</p>
 
-I'm a passionate and driven Computer Science undergraduate from **CINEC University, Sri Lanka**, with a strong enthusiasm for building elegant software solutions and robust, automated systems. My journey in tech is fueled by a love for clean code, scalable architecture, and the endless possibilities of cloud-native technologies.
+I'm a passionate and driven Computer Science undergraduate from **CINEC University, Sri Lanka**, focused on developing clean, scalable, and efficient **JavaScript-based web applications**. I love building powerful backend systems with **Node.js and Express.js**, and bringing interfaces to life with modern frontend frameworks.
 
-- 🌱 I’m currently diving deep into the **Spring Ecosystem** and exploring advanced **DevOps practices** with Kubernetes.
-- 💡 My focus is on creating full-stack web applications and AI-powered tools that solve real-world problems.
-- 👯 I’m looking to collaborate on open-source projects related to **Java, JavaScript, or DevOps**.
-- 💬 Ask me about **Java, Spring Boot, React, or CI/CD pipelines**!
+- 💡 Currently building full-stack web apps using **JavaScript**, **Node.js**, and **Express.js**.
+- 👯 I’m open to collaborating on open-source projects involving **JavaScript, Node.js, or API development**.
+- 🌐 Exploring DevOps tools and best practices to scale modern cloud-native applications.
 
 ---
 
@@ -38,9 +27,8 @@ I'm a passionate and driven Computer Science undergraduate from **CINEC Universi
       <strong>Backend</strong>
     </td>
     <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/></a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/></a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
     </td>
   </tr>
@@ -53,7 +41,7 @@ I'm a passionate and driven Computer Science undergraduate from **CINEC Universi
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">
       <strong>DevOps & Cloud</strong>
     </td>
@@ -70,10 +58,10 @@ I'm a passionate and driven Computer Science undergraduate from **CINEC Universi
 ### <p align="center">📊 My GitHub Stats</p>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github" alt="Lakshan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Lakshan's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LakshanDev&show_icons=true&theme=tokyonight&rank_icon=github" alt="Lakshan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshanDev&theme=tokyonight&hide_border=true" alt="Lakshan's GitHub Streak" />
   <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -81,10 +69,10 @@ I'm a passionate and driven Computer Science undergraduate from **CINEC Universi
 ### <p align="center">🔗 Let's Connect</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/lakshandev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sasangadevmin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://yourportfolio.com">
@@ -95,7 +83,7 @@ I'm a passionate and driven Computer Science undergraduate from **CINEC Universi
 ---
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourlink">
+  <a href="https://www.buymeacoffee.com/lakshan">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
