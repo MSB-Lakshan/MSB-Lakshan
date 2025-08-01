@@ -1,7 +1,5 @@
 <!-- Divider SVG -->
-<p align="center">
-  <img src="https://svgshare.com/i/12qA.svg" width="100%" />
-</p>
+
 
 <!-- Typing Name Effect -->
 <h1 align="center">
@@ -54,7 +52,4 @@ My future goal is to become a skilled <strong>AI Engineer</strong> and contribut
 
 ---
 
-<!-- Bottom Divider SVG -->
-<p align="center">
-  <img src="https://svgshare.com/i/12qA.svg" width="100%" />
-</p>
+
