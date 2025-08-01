@@ -1,89 +1,35 @@
-### <p align="center">🚀 About Me</p>
+<p align="center">🚀 About Me</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css" alt="Tech Stack" /> </p>
+I'm a passionate and driven Computer Science undergraduate from CINEC University, Sri Lanka, focused on building clean, scalable, and performant JavaScript-based web applications. I specialize in crafting robust backend systems with Node.js and Express.js, and designing responsive UIs with modern frontend frameworks.
 
-I'm a dedicated and growth-driven Computer Science undergraduate at **CINEC University, Sri Lanka**, with a strong passion for solving real-world problems through **JavaScript-based full-stack web applications**.
+💡 Currently developing full-stack applications with a focus on backend architecture, REST APIs, and DevOps.
 
-I specialize in building robust backend systems with **Node.js + Express.js** and crafting seamless frontend experiences with **React.js**. I’m also diving into **DevOps** and **cloud-native application** development to enhance scalability and maintainability in modern software systems.
+👯 Open to contributing to open-source projects in Node.js, REST API development, and React.js.
 
----
+🌱 Exploring containerization, CI/CD pipelines, and cloud-native engineering workflows.
 
-### <p align="center">🧠 What I Do</p>
+<p align="center">🛠️ Tech Stack</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,docker,kubernetes,git" alt="Tech Stack" /> </p>
+<p align="center">🧠 What I’m Learning</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/roedvan/roedvan/main/code-thinking.svg" width="300"/> </p>
+Designing scalable backend architectures using microservices and RESTful APIs
 
-- ⚙️ **Backend Development** — RESTful APIs with Node.js + Express.js  
-- 🎨 **Frontend Engineering** — Responsive UIs with React.js and modern CSS  
-- 🗃️ **Databases** — Relational (MySQL) & NoSQL (MongoDB) schema design  
-- ☁️ **DevOps Learning** — Docker, Git, and CI/CD basics  
-- 🔍 **Problem-Solving** — Writing clean, maintainable, testable code  
-- 📚 **Always Learning** — Software architecture, design patterns, and system design
+Deploying web apps using Docker, CI/CD, and Kubernetes
 
----
+Practicing test-driven development (TDD) with Jest and Mocha
 
-### <p align="center">🛠️ Tech Stack</p>
+Improving system design and architecture knowledge
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="200"><strong>Frontend</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Cloud</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-    </td>
-  </tr>
-</table>
+<p align="center">📚 Projects & Workflows</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/roedvan/roedvan/main/project-management.svg" width="300"/> </p>
+📦 Building API-centric applications with modular structure
 
----
+🧪 Writing unit/integration tests and documenting APIs with Swagger
 
-### <p align="center">🧩 Focus Areas</p>
+🔄 Git workflows with pull requests, branching, and code reviews
 
-- API Design & Integration  
-- Authentication & Security (JWT, OAuth)  
-- RESTful Services & Middleware Architecture  
-- Git-Based Development Workflow  
-- Containerization & Basic CI/CD  
-- Scalable Project Structures (MVC, Modular)
+☁️ Full-stack deployment on Render, Vercel, and Netlify
 
----
-
-### <p align="center">🔗 Let's Connect</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/lakshandev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-292929?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/lakshan">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
+<p align="center">🔗 Let's Connect</p>
+<p align="center"> <a href="https://linkedin.com/in/lakshandev" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sasangadevmin@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/> </a> </p>
+<p align="center"> <a href="https://www.buymeacoffee.com/lakshan"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
