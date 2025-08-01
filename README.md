@@ -1,35 +1,60 @@
-<p align="center">🚀 About Me</p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css" alt="Tech Stack" /> </p>
-I'm a passionate and driven Computer Science undergraduate from CINEC University, Sri Lanka, focused on building clean, scalable, and performant JavaScript-based web applications. I specialize in crafting robust backend systems with Node.js and Express.js, and designing responsive UIs with modern frontend frameworks.
+<!-- Divider SVG -->
+<p align="center">
+  <img src="https://svgshare.com/i/12qA.svg" width="100%" />
+</p>
 
-💡 Currently developing full-stack applications with a focus on backend architecture, REST APIs, and DevOps.
+<!-- Typing Name Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sahan+Lakshan;Fullstack+Developer;Future+AI+Engineer" alt="Typing SVG" />
+</h1>
 
-👯 Open to contributing to open-source projects in Node.js, REST API development, and React.js.
+---
 
-🌱 Exploring containerization, CI/CD pipelines, and cloud-native engineering workflows.
+### <p align="center">💡 About Me</p>
 
-<p align="center">🛠️ Tech Stack</p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,docker,kubernetes,git" alt="Tech Stack" /> </p>
-<p align="center">🧠 What I’m Learning</p>
-<p align="center"> <img src="https://raw.githubusercontent.com/roedvan/roedvan/main/code-thinking.svg" width="300"/> </p>
-Designing scalable backend architectures using microservices and RESTful APIs
+<p align="center">
+I'm a Computer Science undergraduate passionate about software engineering.<br/>
+Currently diving deep into fullstack development while learning backend architecture and DevOps.<br/>
+My future goal is to become a skilled <strong>AI Engineer</strong> and contribute to intelligent systems and automation.
+</p>
 
-Deploying web apps using Docker, CI/CD, and Kubernetes
+---
 
-Practicing test-driven development (TDD) with Jest and Mocha
+### <p align="center">🧰 Tech Stack & Tools</p>
 
-Improving system design and architecture knowledge
+#### 🧠 **Languages**
+- HTML / CSS / JavaScript  
+- Python  
+- Java  
 
-<p align="center">📚 Projects & Workflows</p>
-<p align="center"> <img src="https://raw.githubusercontent.com/roedvan/roedvan/main/project-management.svg" width="300"/> </p>
-📦 Building API-centric applications with modular structure
+#### ⚙️ **Frameworks & Libraries**
+- React.js  
+- Node.js (Express.js)  
+- JDBC  
+- Jest  
 
-🧪 Writing unit/integration tests and documenting APIs with Swagger
+#### 🛢️ **Databases**
+- MySQL  
+- Firebase  
 
-🔄 Git workflows with pull requests, branching, and code reviews
+#### 🔬 **API & Testing Tools**
+- Postman  
+- Jest  
 
-☁️ Full-stack deployment on Render, Vercel, and Netlify
+#### 🧰 **Development Tools**
+- VS Code  
+- IntelliJ IDEA  
+- PyCharm  
+- Visual Studio  
 
-<p align="center">🔗 Let's Connect</p>
-<p align="center"> <a href="https://linkedin.com/in/lakshandev" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sasangadevmin@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/> </a> </p>
-<p align="center"> <a href="https://www.buymeacoffee.com/lakshan"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
+#### 📈 **Project & Team Tools**
+- GitHub  
+- Jira  
+- Basecamp  
+
+---
+
+<!-- Bottom Divider SVG -->
+<p align="center">
+  <img src="https://svgshare.com/i/12qA.svg" width="100%" />
+</p>
